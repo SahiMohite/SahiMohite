@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 <div align="center">
   <img height="150" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3"  />
 </div>
