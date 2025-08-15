@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Sahil Mohite<br>- 🔭 I’m a student<br>- 📚 I'm currently learning Full Stack Development<br>- ⚡ In my free time I do Java Programming</p>
+<p align="left">I'm Sahil Mohite<br>- 🔭 I’m a student<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I do Java Programming and some Websites</p>
 
 ###
 
