@@ -34,13 +34,6 @@
   <img src="https://skillicons.dev/icons?i=java,js,python,cpp,c,react,nodejs,express,mongodb,html,css,git,figma,azure" />
 </p>
 
----
-
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SahiMohite&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SahiMohite&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-</div>
 
 ---
 
